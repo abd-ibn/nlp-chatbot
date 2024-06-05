@@ -27,7 +27,7 @@ This is an assistant chatbot application built for the FSTT (Faculté des Scienc
 
 5. For the Pinecone vector database:
    
-   - Run the notebook `embedding.ipynb` to store the necessary data for this project into your Pinecone index.
+   - Run the notebook `3-embedding.ipynb` to store the necessary data for this project into your Pinecone index.
 
 6. Finally, to run the application, execute the following command:
 
