@@ -1,0 +1,10 @@
+langchain
+streamlit
+langchain-community
+sentence-transformers
+pinecone-client
+openai
+torch
+transformers
+nltk
+streamlit-chat
