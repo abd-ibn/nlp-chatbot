@@ -37,9 +37,9 @@ This is an assistant chatbot application built for the FSTT (Faculté des Scienc
 
 This will start the Streamlit server and open the application in your default web browser. You can then interact with the chatbot by asking questions related to the FSTT.
 
+<br/><br/><br/>
 
 
-
-Project
+### Project
    - Supervised by : Mr. Lotfi EL AACHAK
    - Realized by : Abdelali IBN TABET , Soueilem Mohamed Abd Nasir 
